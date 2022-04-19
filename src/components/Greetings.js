@@ -1,3 +1,3 @@
-export default function Greetings() {
+/* export default function Greetings() {
     
-}
+} */

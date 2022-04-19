@@ -1,4 +1,4 @@
-export default function Pages() {
+/* export default function Pages() {
 
     const questions = [
         {idName:"FirstPage", question:"O que é yarn? Por que ele foi criado? Por que ele não é mais necessário?"},
@@ -17,9 +17,9 @@ export default function Pages() {
             {
                 questions.map( quest => {
                     const {idName, question} = quest;
-                    return <Page id={idName} question={question} /> 
+                    return <Page key={idName} question={question} /> 
                 })
             }
         </>
     )
-}
+} */
